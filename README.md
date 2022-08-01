@@ -30,8 +30,7 @@
 
 - The ratings dataset was successfully stored in a PostreSQL database for the hackathon event. 
 
-
- 
+![ratings_query](https://user-images.githubusercontent.com/104038813/182174842-ab833075-1bc9-4af2-bd74-d15265ab64bc.png)
 
 
 
